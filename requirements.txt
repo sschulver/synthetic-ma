@@ -4,3 +4,4 @@ folium
 streamlit_folium 
 geodesic-api
 pandas
+plotly
