@@ -2,5 +2,5 @@ streamlit
 geopandas
 folium
 streamlit_folium 
-geodesic
+geodesic-api
 pandas
